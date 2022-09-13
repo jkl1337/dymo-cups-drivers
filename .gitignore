@@ -1,0 +1,16 @@
+
+.deps
+Makefile
+config.h
+config.log
+config.status
+
+# Generated during compilation
+*.o
+*.a
+*.elf
+*.bin
+*.so
+*.lo
+src/lm/raster2dymolm
+src/lw/raster2dymolw
